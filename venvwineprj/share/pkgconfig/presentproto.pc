@@ -1,0 +1,7 @@
+prefix=/home/abhishek/Documents/MLOps/End-to-End-Wine-Quality/venvwineprj
+includedir=${prefix}/include
+ 
+Name: PresentProto
+Description: Present extension headers
+Version: 1.4
+Cflags: -I${includedir}
